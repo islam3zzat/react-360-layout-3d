@@ -1,4 +1,4 @@
-# Demo Layout in 3d surfaces in React 360
+# Demo Layout in 3D space in React 360
 
 As explaind in our talk (_Building Immersive VR Apps With React 360_) in [React with SumUp](https://reactwithsumup.splashthat.com/)
 this small application demonstrate how to layout your component in 3d space
